@@ -1,4 +1,4 @@
-//Name: Sheikh Annus
+//Name: Sheikh Muhammad Annus
 //Program:Hello World Program
 
 #include <stdio.h> //Pre-process directive to include standard input and output functions header file
